@@ -17,17 +17,15 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'A convenience CocoaPod that extends the UIImageView Swift class. Enjoy!'
 
   s.homepage         = 'https://github.com/TatyanaM/TMSuperImages'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'TatianaMudryak' => 'tatiana.mudryak@etrade.com' }
+  s.author           = { 'TatianaMudryak' => 'tatiana.mudryak@gmail.com' }
   s.source           = { :git => 'https://github.com/TatyanaM/TMSuperImages.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
+  s.swift_version = '4.0'
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'TMSuperImages/Classes/*.swift'
