@@ -1,0 +1,22 @@
+{
+  "name": "TMSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of TMSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TatianaMudryak/TMSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TatianaMudryak": "tatiana.mudryak@etrade.com"
+  },
+  "source": {
+    "git": "https://github.com/TatianaMudryak/TMSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TMSuperImages/Classes/**/*"
+}

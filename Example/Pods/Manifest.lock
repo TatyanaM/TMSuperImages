@@ -1,0 +1,16 @@
+PODS:
+  - TMSuperImages (0.1.0)
+
+DEPENDENCIES:
+  - TMSuperImages (from `../`)
+
+EXTERNAL SOURCES:
+  TMSuperImages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TMSuperImages: 972e34536f811acd7520a9f01a5addc94794c910
+
+PODFILE CHECKSUM: a5e6ce4493ff21f9a000131baa4fc1fe5c22da85
+
+COCOAPODS: 1.5.3
