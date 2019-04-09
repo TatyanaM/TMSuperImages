@@ -46,7 +46,7 @@
 		920F4FB53FA5C76FD97419B4 /* Pods-TMSuperImages_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TMSuperImages_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TMSuperImages_Tests/Pods-TMSuperImages_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B36B863CC8F02C132BFF2912 /* Pods-TMSuperImages_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TMSuperImages_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TMSuperImages_Example/Pods-TMSuperImages_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C3FF58461C6B45BFEDE67F4E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		F912F93509CA44F113E4789B /* TMSuperImages.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TMSuperImages.podspec; path = ../TMSuperImages.podspec; sourceTree = "<group>"; };
+		F912F93509CA44F113E4789B /* TMSuperImages.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TMSuperImages.podspec; path = ../TMSuperImages.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

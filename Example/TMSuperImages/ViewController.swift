@@ -7,18 +7,17 @@
 //
 
 import UIKit
+import TMSuperImages
 
 class ViewController: UIViewController {
 
+    @IBOutlet var testImageView: UIImageView!
+
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        testImageView.roundViewWith(borderColor: .white, borderWidth: 1)
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
 
 }
 
